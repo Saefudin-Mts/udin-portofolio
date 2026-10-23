@@ -41,7 +41,7 @@ export function About() {
             className="space-y-5 text-base leading-relaxed text-muted-foreground"
           >
             <p>
-              Halo! Saya <span className="font-semibold text-foreground">Arya Pratama</span>,
+              Halo! Saya <span className="font-semibold text-foreground">Saefudin</span>,
               seorang desainer produk dan pengembang web yang bermarkas di Jakarta. Selama lebih
               dari lima tahun, saya membantu startup dan brand membangun produk digital yang
               tidak hanya terlihat menarik, tetapi juga terasa cepat, intuitif, dan dapat
@@ -87,7 +87,7 @@ export function About() {
                   <p className="text-xs uppercase tracking-wider text-muted-foreground">
                     Profil singkat
                   </p>
-                  <h3 className="mt-1 text-2xl font-semibold">Arya Pratama</h3>
+                  <h3 className="mt-1 text-2xl font-semibold">Saefudin</h3>
                   <p className="mt-1 text-sm text-muted-foreground">
                     Product Designer & Web Engineer
                   </p>
