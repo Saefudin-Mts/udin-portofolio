@@ -66,7 +66,7 @@ export function Hero() {
               variants={item}
               className="mt-6 text-4xl sm:text-5xl lg:text-6xl font-bold tracking-tight text-balance"
             >
-              Halo, saya <span className="gradient-text">Arya Pratama</span>
+              Halo, saya <span className="gradient-text">Saefudin</span>
               <br className="hidden sm:block" /> Designer & Developer
               <br className="hidden sm:block" /> yang Membangun Karya Digital.
             </motion.h1>
