@@ -33,7 +33,7 @@ export function Footer() {
                 <Sparkles className="h-4 w-4" />
               </span>
               <span className="text-base">
-                Arya Pratama<span className="text-primary">.</span>
+                Saefudin<span className="text-primary">.</span>
               </span>
             </Link>
             <p className="mt-4 text-sm text-muted-foreground max-w-sm">
@@ -93,7 +93,7 @@ export function Footer() {
 
         <div className="mt-10 pt-6 border-t border-border/60 flex flex-col sm:flex-row items-center justify-between gap-3">
           <p className="text-xs text-muted-foreground">
-            © {new Date().getFullYear()} Arya Pratama. Dibuat dengan rasa dan rincian.
+            © {new Date().getFullYear()} Saefudin. Dibuat dengan rasa dan rincian.
           </p>
           <p className="text-xs text-muted-foreground">
             Dibangun dengan Next.js · Tailwind CSS · shadcn/ui
